@@ -1,5 +1,5 @@
 {
-    "name": "alfa6661/laravel-autonumber",
+    "name": "arwicaksono/laravel-autonumber",
     "description": "Laravel package to create autonumber for Eloquent model",
     "keywords": [
         "laravel",
@@ -14,11 +14,6 @@
             "email": "alfa2159@gmail.com"
         }
     ],
-    "require": {
-        "illuminate/config": "^5.1|^6.0|^7.0|^8.0",
-        "illuminate/database": "^5.1|^6.0|^7.0|^8.0",
-        "illuminate/support": "^5.1|^6.0|^7.0|^8.0"
-    },
     "autoload": {
         "psr-4": {
             "Alfa6661\\AutoNumber\\": "src"
